@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WLAN Tile</string>
+    <string name="tile_label">IP-Adresse</string>
+    <string name="wifi_inactive_label">WLAN nicht verbunden</string>
+    <string name="ip_address_fetching">suchen …</string>
+    <string name="ip_address_not_found">IP-Adresse kann nicht abgerufen werden</string>
+</resources>

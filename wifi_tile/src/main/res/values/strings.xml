@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wi-Fi Tile</string>
+    <string name="tile_label">IP Address</string>
+    <string name="wifi_inactive_label">Wi-Fi not connected</string>
+    <string name="ip_address_fetching">fetching …</string>
+    <string name="ip_address_not_found">IP Address not found</string>
+</resources>
